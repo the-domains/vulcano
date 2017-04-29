@@ -1,3 +1,6 @@
+name: Vulcano
+layout_spectrum: 0.9717858317308128
+typography_spectrum: 0.2906853777822107
 color:
   brandColors:
     - '#E6E2AF'
@@ -9,20 +12,10 @@ color:
   lightness: 0.17650209041312337
   saturation: 0.3287152932025492
   rhythmicContrast: 0.5967214012052864
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-name: Vulcano
-layout_spectrum: 0.9717858317308128
-typography_spectrum: 0.2906853777822107
-content: []
 title: Entertaints
 description: Music publiser
-github: true
 author:
   name: Purnomo Adhari
   email: praboe6@gmail.com
+content: []
+github: true
