@@ -1,6 +1,9 @@
 name: Vulcano
 layout_spectrum: 0.9717858317308128
 typography_spectrum: 0.2906853777822107
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#E6E2AF'
@@ -17,5 +20,7 @@ description: Music publiser
 author:
   name: Purnomo Adhari
   email: praboe6@gmail.com
+content_rating:
+  adult: false
 content: []
 github: true
